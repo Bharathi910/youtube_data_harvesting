@@ -14,9 +14,13 @@ Data Querying: Execute predefined SQL queries to analyze the stored data.
 **Prerequisites**
 
 Python 3.7+
+
 Streamlit
+
 YouTube Data API Key
+
 MySQL server
+
 Required Python Libraries: streamlit, pandas, google-api-python-client, pymysql
 
 **Usage**

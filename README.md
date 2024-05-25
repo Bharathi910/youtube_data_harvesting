@@ -1,5 +1,8 @@
 # youtube_data_harvesting_and_warehousing
 
+**LinkedIn link:**
+https://www.linkedin.com/posts/siva-bharathi-n-9b233b1b4_guvi-activity-7200150871349813249-0Ici/?utm_source=share&utm_medium=member_desktop
+
 **Overview**
 
 This project is a Streamlit application designed to harvest data from YouTube, transform it, and store it in a MySQL database. The application allows users to fetch channel, video, and comment information from YouTube, view the data, store it in a database, and perform queries to analyze the stored data.
